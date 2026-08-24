@@ -831,9 +831,6 @@ A more advanced version could look like:
 ---
 
 ## ⚠️ Security
-
-Do not commit:
-
 ```text
 OPENAI_API_KEY
 EMAIL_APP_PASSWORD
